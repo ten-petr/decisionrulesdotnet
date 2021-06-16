@@ -1,0 +1,6 @@
+.vs
+./DecisionRules/obj
+./DecisionRules/bin
+
+./DecisionRulesTest/bin
+./DecisionRulesTest/obj

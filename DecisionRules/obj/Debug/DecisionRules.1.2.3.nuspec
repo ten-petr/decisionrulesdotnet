@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DecisionRules</id>
+    <version>1.2.3</version>
+    <authors>DecisionRules</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <icon>decisionRulesIcon.png</icon>
+    <projectUrl>https://decisionrules.io/</projectUrl>
+    <description>Simple library that allows you to easily connect to Decisionrules.io from your application.</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\VojtěchMikeš\Work\DecisionRulesSDK\decisionrulesdotnet\DecisionRules\bin\Debug\netcoreapp3.1\DecisionRules.dll" target="lib\netcoreapp3.1\DecisionRules.dll" />
+    <file src="C:\Users\VojtěchMikeš\Work\DecisionRulesSDK\decisionrulesdotnet\DecisionRules\decisionRulesIcon.png" target="decisionRulesIcon.png" />
+  </files>
+</package>
